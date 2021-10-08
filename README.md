@@ -15,4 +15,4 @@ I am Vaishnav. A 20 year old Frontend developer trying to build things on his ti
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav-sh&layout=compact&theme=cobalt&hide_border=enable" style="align-self: stretch">
 </div>
 <br>
-<img style="display: block;" src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula"/>
+<img style="display: block;" src="https://activity-graph.herokuapp.com/graph?username=vaishnav-sh&theme=github"/>
