@@ -10,9 +10,9 @@ I am Vaishnav. A 20 year old Frontend developer trying to build things on his ti
 <br>
 ## ⚙ Statistics
 
-<div style="display: flex; gap: 2em; align-items: flex-start">
-    <img src="https://github-readme-stats.vercel.app/api?username=vaishnav-sh&show_icons=true&theme=cobalt&hide_border=enable">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav-sh&layout=compact&theme=cobalt&hide_border=enable" style="align-self: stretch">
+<div style="display: flex; gap: 2em; align-items: center">
+    <img src="https://github-readme-stats.vercel.app/api?username=vaishnav-sh&show_icons=true&theme=cobalt&hide_border=enable&hide=issues,prs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav-sh&layout=compact&theme=cobalt&hide_border=enable">
 </div>
 <br>
-<img style="display: block;" src="https://activity-graph.herokuapp.com/graph?username=vaishnav-sh&theme=github"/>
+<img style="display: block;" src="https://activity-graph.herokuapp.com/graph?username=vaishnav-sh&theme=rogue&bg_color=193549"/>
