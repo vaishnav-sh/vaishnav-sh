@@ -23,8 +23,8 @@
 
 <h2 align="left">Latests posts</h2>
 <ul>
-    <li><a align="left" src="https://dev.to/vaishnav/references-vs-values-in-javascript-5bgo">References vs Values in JavaScript</a></li>
-    <li><a align="left" src="https://dev.to/vaishnav/scoping-in-javascript-explained-1m6p">Scoping in JavaScript</a></li>
+    <li><a align="left" href="https://dev.to/vaishnav/references-vs-values-in-javascript-5bgo">References vs Values in JavaScript</a></li>
+    <li><a align="left" href="https://dev.to/vaishnav/scoping-in-javascript-explained-1m6p">Scoping in JavaScript</a></li>
 </ul>
 
 <h2 align="left">⚙ Statistics</h2>
