@@ -6,7 +6,7 @@
     My name is <b>Vaishnav Shyam</b>. I'm a 20 year old <b>Frontend developer</b> trying to build things for the interweb. When I'm not building I spend my time contributing to open source, writing technical blog posts and occassionally designing UI components.
 </p>
 
-- Currently learning **JavaScript**, **SASS** and **APIs**
+- Currently learning **React and Full Stack JavaScript development**
 - Working on a pomodoro desktop app using **Electron**
 - Actively trying to collaborate on **GitHub**
 
