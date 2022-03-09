@@ -9,6 +9,7 @@
 - Currently learning **React and Full Stack JavaScript development**
 - Working on a pomodoro desktop app using **Electron**
 - Actively trying to collaborate on **GitHub**
+- Learn fullstack with me [here](https://github.com/vaishnav-sh/learn-fullstack)
 
 <h2 align="left">Get in touch</h2>
 <p align="left">
