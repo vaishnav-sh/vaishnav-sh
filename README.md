@@ -1,6 +1,6 @@
 
 <!-- <h3 align="center">Frontend Development | Design | Open source </h3> -->
-<h1>Hey there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>Hey there!</h1>
 
 <p align="left">
     My name is <b>Vaishnav Shyam</b>. I'm a 21 year old <b>Frontend developer</b> trying to build things for the interweb. When I'm not building I spend my time contributing to open source, writing technical blog posts and occassionally designing UI components.
