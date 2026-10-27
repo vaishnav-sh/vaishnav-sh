@@ -4,8 +4,8 @@ software engineer at best buy, based in bengaluru. i write code for the web,
 experiment with ai, tinker with home servers, and turn the occasional rabbit
 hole into a project.
 
-for 4+ years i've built and owned full-stack systems at scale across retail,
-hr-tech. these products serve thousands of users and handle
+for 4+ years i've built and owned full-stack systems at scale across retail and
+hr-tech. these products serve thousands of concurrent users and handle
 millions of requests every day. along the way i've shipped live video streaming,
 real-time chat and voice, observability services and design systems used
 across teams.
